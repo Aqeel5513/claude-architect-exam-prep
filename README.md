@@ -18,6 +18,12 @@ Content will be organized by exam domain as it is added. Planned areas include:
 - Prompt caching, context management, and cost optimization
 - Evaluation, safety, and deployment patterns
 
+## Notes
+
+| Topic | File |
+|---|---|
+| Prompt engineering basics | [notes/prompt-engineering-basics.md](notes/prompt-engineering-basics.md) |
+
 ## How to Use
 
 1. Read the notes for each domain.
