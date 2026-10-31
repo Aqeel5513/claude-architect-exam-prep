@@ -23,6 +23,7 @@ Content will be organized by exam domain as it is added. Planned areas include:
 | Topic | File |
 |---|---|
 | Prompt engineering basics | [notes/prompt-engineering-basics.md](notes/prompt-engineering-basics.md) |
+| Tool use and agents | [notes/tool-use-and-agents.md](notes/tool-use-and-agents.md) |
 
 ## How to Use
 
